@@ -1,3 +1,5 @@
 receta:
 
-ingredientes
+ingredientes:
+harina
+peperoni
